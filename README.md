@@ -1,5 +1,5 @@
 # netcat_cart_widget
-# uspensky_25_09_25
+uspensky_25_09_25
 
 Виджет корзины товаров для Netcat
 
